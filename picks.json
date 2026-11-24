@@ -1,0 +1,222 @@
+{
+ "c01_greet": {
+  "take": "c01_greet_2.wav",
+  "match": 1.0,
+  "heard": "Hello, is that you, Gerald?"
+ },
+ "c01_hangup": {
+  "take": "c01_hangup_1.wav",
+  "match": 1.0,
+  "heard": "Gerald doesn't live here anymore."
+ },
+ "c01_sale": {
+  "take": "c01_sale_2.wav",
+  "match": 1.0,
+  "heard": "Oh, how lovely. Put me down for two, dear."
+ },
+ "c02_greet": {
+  "take": "c02_greet_0.wav",
+  "match": 1.0,
+  "heard": "Yeah, what?"
+ },
+ "c02_hangup": {
+  "take": "c02_hangup_1.wav",
+  "match": 1.0,
+  "heard": "Nope."
+ },
+ "c02_nosale": {
+  "take": "c02_nosale_2.wav",
+  "match": 1.0,
+  "heard": "I'm gonna stop you right there."
+ },
+ "c03_greet": {
+  "take": "c03_greet_1.wav",
+  "match": 1.0,
+  "heard": "Yo, who's this?"
+ },
+ "c03_hangup": {
+  "take": "c03_hangup_1.wav",
+  "match": 1.0,
+  "heard": "Ha, no. Bye."
+ },
+ "c03_sale": {
+  "take": "c03_sale_0.wav",
+  "match": 1.0,
+  "heard": "Dude, yes, sign me up."
+ },
+ "c04_greet": {
+  "take": "c04_greet_0.wav",
+  "match": 1.0,
+  "heard": "This is Linda. Make it quick."
+ },
+ "c04_hangup": {
+  "take": "c04_hangup_2.wav",
+  "match": 1.0,
+  "heard": "Take me off your list."
+ },
+ "c04_nosale": {
+  "take": "c04_nosale_2.wav",
+  "match": 1.0,
+  "heard": "Send me something in writing."
+ },
+ "c05_greet": {
+  "take": "c05_greet_0.wav",
+  "match": 1.0,
+  "heard": "How did you get this number?"
+ },
+ "c05_hangup": {
+  "take": "c05_hangup_0.wav",
+  "match": 1.0,
+  "heard": "I know what you are."
+ },
+ "c05_nosale": {
+  "take": "c05_nosale_2.wav",
+  "match": 1.0,
+  "heard": "My nephew says never buy anything on the phone."
+ },
+ "c06_greet": {
+  "take": "c06_greet_1.wav",
+  "match": 1.0,
+  "heard": "Hello? Mom's not home."
+ },
+ "c06_hangup": {
+  "take": "c06_hangup_0.wav",
+  "match": 1.0,
+  "heard": "Uh, no."
+ },
+ "c06_nosale": {
+  "take": "c06_nosale_1.wav",
+  "match": 1.0,
+  "heard": "I'm not allowed to buy stuff."
+ },
+ "c07_greet": {
+  "take": "c07_greet_1.wav",
+  "match": 1.0,
+  "heard": "Oh, um, hello."
+ },
+ "c07_hangup": {
+  "take": "c07_hangup_0.wav",
+  "match": 1.0,
+  "heard": "Sorry. Sorry. Wrong. Sorry."
+ },
+ "c07_sale": {
+  "take": "c07_sale_2.wav",
+  "match": 1.0,
+  "heard": "I, I guess I could. Yes, okay."
+ },
+ "c08_greet": {
+  "take": "c08_greet_0.wav",
+  "match": 0.857,
+  "heard": "I was asleep."
+ },
+ "c08_hangup": {
+  "take": "c08_hangup_1.wav",
+  "match": 1.0,
+  "heard": "Call back never."
+ },
+ "c08_sale": {
+  "take": "c08_sale_2.wav",
+  "match": 1.0,
+  "heard": "Fine, whatever it is, yes."
+ },
+ "c09_greet": {
+  "take": "c09_greet_2.wav",
+  "match": 1.0,
+  "heard": "Well, hi there, sugar."
+ },
+ "c09_hangup": {
+  "take": "c09_hangup_1.wav",
+  "match": 1.0,
+  "heard": "Oh, honey? No."
+ },
+ "c09_sale": {
+  "take": "c09_sale_0.wav",
+  "match": 1.0,
+  "heard": "You talked me into it. You're good."
+ },
+ "c10_greet": {
+  "take": "c10_greet_2.wav",
+  "match": 1.0,
+  "heard": "Hello, sorry I've got a cold."
+ },
+ "c10_hangup": {
+  "take": "c10_hangup_1.wav",
+  "match": 1.0,
+  "heard": "I can't. I'm dying. Bye."
+ },
+ "c10_nosale": {
+  "take": "c10_nosale_0.wav",
+  "match": 1.0,
+  "heard": "Can you call back when I can breathe?"
+ },
+ "c11_greet": {
+  "take": "c11_greet_2.wav",
+  "match": 1.0,
+  "heard": "Shh. The baby's asleep."
+ },
+ "c11_hangup": {
+  "take": "c11_hangup_2.wav",
+  "match": 1.0,
+  "heard": "If you wake her, I will find you."
+ },
+ "c11_nosale": {
+  "take": "c11_nosale_2.wav",
+  "match": 1.0,
+  "heard": "Not today. Please don't call again."
+ },
+ "c12_greet": {
+  "take": "c12_greet_0.wav",
+  "match": 0.75,
+  "heard": "Yellow, talk to me!"
+ },
+ "c12_hangup": {
+  "take": "c12_hangup_0.wav",
+  "match": 1.0,
+  "heard": "Ha! Nice try, pal!"
+ },
+ "c12_sale": {
+  "take": "c12_sale_0.wav",
+  "match": 1.0,
+  "heard": "Sold. I love it. What is it?"
+ },
+ "sup_welcome1": {
+  "take": "sup_welcome1_0.wav",
+  "match": 1.0,
+  "heard": "Welcome aboard. Your quota is on the screen."
+ },
+ "sup_welcome2": {
+  "take": "sup_welcome2_2.wav",
+  "match": 1.0,
+  "heard": "This is your supervisor. You may call me supervisor."
+ },
+ "sup_met1": {
+  "take": "sup_met1_2.wav",
+  "match": 1.0,
+  "heard": "Quota met. Do not get used to it."
+ },
+ "sup_met2": {
+  "take": "sup_met2_0.wav",
+  "match": 1.0,
+  "heard": "Acceptable. Management is mildly aware of you."
+ },
+ "sup_met3": {
+  "take": "sup_met3_1.wav",
+  "match": 1.0,
+  "heard": "Good numbers. Keep them that way."
+ },
+ "sup_missed1": {
+  "take": "sup_missed1_0.wav",
+  "match": 1.0,
+  "heard": "Short again, your chair is disappointed."
+ },
+ "sup_missed2": {
+  "take": "sup_missed2_2.wav",
+  "match": 1.0,
+  "heard": "Those numbers are a cry for help."
+ },
+ "sup_missed3": {
+  "take": "sup_missed3_1.wav",
+  "match": 1.0,
+  "heard": "We expected less, and you still missed."
+ }
+}

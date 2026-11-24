@@ -1,0 +1,80 @@
+[
+ {
+  "id": "c01",
+  "seed": 101,
+  "instruct": "An elderly woman in her eighties, warm and slightly frail, speaking slowly and a little too loudly, as if a bit hard of hearing.",
+  "ref_text": "Hello? Oh, the phone always rings when I'm in the garden. Speak up, dear, I can't hear a thing on this old thing."
+ },
+ {
+  "id": "c02",
+  "seed": 102,
+  "instruct": "A gruff, tired middle-aged man with a low gravelly voice, flat and unimpressed, speaking in short clipped words.",
+  "ref_text": "Yeah. I just got home. I've been on my feet for ten hours and the last thing I need is another phone call."
+ },
+ {
+  "id": "c03",
+  "seed": 103,
+  "instruct": "A cheerful young man in his early twenties, relaxed and upbeat, a laid-back surfer energy, speaking quickly.",
+  "ref_text": "Oh hey, what's up? Sorry, I was totally just making a sandwich, but yeah, go for it, I've got like a minute."
+ },
+ {
+  "id": "c04",
+  "seed": 104,
+  "instruct": "A brisk professional woman in her forties, crisp, clipped and impatient, clearly busy, mid-range voice.",
+  "ref_text": "This is Linda. I'm between two meetings and I have exactly ninety seconds, so whatever this is, get to the point."
+ },
+ {
+  "id": "c05",
+  "seed": 105,
+  "instruct": "A suspicious old man in his seventies, raspy and thin, slow and wary, distrustful of everything.",
+  "ref_text": "Who is this? How did you get this number? I don't give my number to anybody, and I don't like this one bit."
+ },
+ {
+  "id": "c06",
+  "seed": 106,
+  "instruct": "A bored teenage girl, flat monotone, unimpressed, drawling slightly, a young high voice.",
+  "ref_text": "Hello? Yeah, no, nobody's home. I mean, I'm home, but I don't count. Can you, like, call back later or something?"
+ },
+ {
+  "id": "c07",
+  "seed": 107,
+  "instruct": "A nervous, soft-spoken man in his thirties, a slightly high voice, hesitant and apologetic, stumbling over words.",
+  "ref_text": "Oh. Um. Hello? Sorry, I don't usually answer the phone, I wasn't sure if, um, if I should. Is everything okay?"
+ },
+ {
+  "id": "c08",
+  "seed": 108,
+  "instruct": "A very deep-voiced man who has just been woken up, slow, groggy and sleepy, low and mumbling.",
+  "ref_text": "Mmh... hello? I was asleep. I work nights. It's the middle of my night right now, you understand that, right?"
+ },
+ {
+  "id": "c09",
+  "seed": 109,
+  "instruct": "A warm, chatty middle-aged woman with a friendly sing-song voice and a gentle Southern drawl, delighted to talk.",
+  "ref_text": "Well hi there! Oh, I just love getting calls, nobody calls anymore. Now what can I do for you today, sweetheart?"
+ },
+ {
+  "id": "c10",
+  "seed": 110,
+  "instruct": "A man in his forties with a heavy head cold, congested and nasal, sniffling, miserable and weak.",
+  "ref_text": "Hello? Sorry, I sound terrible, I've had this cold for a week and I can barely breathe through my nose at all."
+ },
+ {
+  "id": "c11",
+  "seed": 111,
+  "instruct": "A young mother whispering very softly and urgently, breathy and hushed, trying not to wake a sleeping baby.",
+  "ref_text": "Hello? Please keep your voice down. The baby just fell asleep, and it took me two hours to get her down."
+ },
+ {
+  "id": "c12",
+  "seed": 1212,
+  "instruct": "A jovial man in his fifties with a deep, low bass voice, hearty and booming, slow and over the top like an old-fashioned car salesman. Low pitch.",
+  "ref_text": "Yello! You got me, buddy! Talk to me, I love a good phone call, whatever you're selling I'm all ears, pal!"
+ },
+ {
+  "id": "sup",
+  "seed": 201,
+  "instruct": "A corporate supervisor, a smooth, calm, cold mid-low voice, perfectly even and unhurried, polite on the surface and quietly menacing underneath.",
+  "ref_text": "This is your supervisor. I trust the calls are going well. I see every number you dial, and I remember all of them."
+ }
+]
